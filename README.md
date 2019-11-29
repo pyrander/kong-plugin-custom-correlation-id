@@ -1,2 +1,2 @@
 # kong-plugin-custom-correlation-id
-custom modification of correlation ID plugin, with more priotity
+custom modification of correlation ID plugin, with more priority
